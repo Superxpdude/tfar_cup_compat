@@ -2,6 +2,7 @@ name = "TFAR CUP Compat"
 prefix = "sxp_tfar_cup_compat"
 author = "Superxpdude"
 files = [
+	"mod.cpp",
 	"README.md"
 ]
 

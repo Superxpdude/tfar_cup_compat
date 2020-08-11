@@ -1,0 +1,14 @@
+name = "TFAR CUP Compat";
+//picture = "";
+actionName = "Github";
+action = "https://github.com/Superxpdude/tfar_cup_compat";
+description = "TFAR CUP Compat";
+//logoSmall = "";
+//logo = "";
+//logoOver = "";
+tooltip = "TFAR CUP Compat";
+tooltipOwned = "TFAR CUP Compat";
+overview = "Provides TFAR radio compatibility to CUP radio backpacks.";
+author = "Superxpdude";
+hideName = 0;
+hidePicture = 0;
