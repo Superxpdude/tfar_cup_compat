@@ -1,0 +1,12 @@
+name = "TFAR CUP Compat"
+prefix = "sxp_tfar_cup_compat"
+author = "Superxpdude"
+files = [
+	"README.md"
+]
+
+key_name = "{{prefix}}_{{version}}"
+authority = "{{prefix}}-{{git \"id 8\"}}"
+
+[header_exts]
+version= "{{git \"id 8\"}}"
